@@ -112,4 +112,4 @@ Response:
 }
 ```
 
-Next, learn how to configure your [Authentication & API Keys](authentication/api-keys.md) for production deployments.
+Next, obtain your API Key from the [Hermiv Developer Portal (dash.hermiv.tech)](https://dash.hermiv.tech) and learn how to configure [Authentication & Rate Limits](../authentication/api-keys.md) for production bot deployments.

@@ -24,6 +24,7 @@ Hermiv operates behind a globally distributed Cloudflare Edge network providing 
 * **Production WebSocket Gateway:** `wss://api.minerva-id.xyz/v1/ws`
 * **Production SSE Streaming Endpoint:** `https://api.minerva-id.xyz/v1/stream`
 * **REST Snapshot & Metadata API:** `https://api.minerva-id.xyz/v1`
+* **Developer Portal & API Keys Vault:** [https://dash.hermiv.tech](https://dash.hermiv.tech)
 * **Command Center & Visual Dashboard:** [https://hermiv.tech](https://hermiv.tech)
 
 ---
