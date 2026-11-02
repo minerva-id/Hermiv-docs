@@ -6,9 +6,9 @@ Hermiv uses cryptographic API keys to authenticate and authorize requests across
 
 ## 1. Obtaining Your API Key
 
-API keys are managed through the **Hermiv Command Center**:
-1. Log in to [https://hermiv.tech](https://hermiv.tech).
-2. Navigate to **Developer Settings ➔ API Keys**.
+API keys are managed through the **Hermiv Developer Portal**:
+1. Log in to [https://dash.hermiv.tech](https://dash.hermiv.tech) using your Web3 wallet (Phantom, MetaMask), Discord, or Email via Privy.
+2. Navigate to **API Keys Vault**.
 3. Generate a new key for your bot or execution daemon.
 
 Keys follow a standardized prefix format:
